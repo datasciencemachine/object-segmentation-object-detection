@@ -6,7 +6,7 @@ The [Object detection in Images](https://colab.research.google.com/drive/1tULD2d
 The [object detection on live video](https://github.com/datasciencemachine/object-detection-instance-segmentation/blob/trials/object_detection/Object-detection%20in%20live%20video.ipynb) file can only be run on local machine as google colab cannot read from webcam.
 
 ## ISSUES:
-In case of [Object-detection in live video](https://github.com/datasciencemachine/object-detection-instance-segmentation/blob/trials/object_detection/Object-detection%20in%20live%20video.ipynb) doesn't work try changing the value in cap.Capture() inside the bracket
+In case of [Object-detection in live video](https://github.com/datasciencemachine/object-segmentation-object-detection/blob/master/object_detection/Object-detection%20in%20live%20video.ipynb) doesn't work try changing the value in cap.Capture() inside the bracket
 
 ## NOTE:
 The github notebooks and the google colab files are different, for local machines always download github notebooks
