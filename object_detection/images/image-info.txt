@@ -1,0 +1,4 @@
+Image provenance:
+image1.jpg: https://thumbs.dreamstime.com/z/giraffe-zebra-one-enclosure-moscow-zoo-savannah-africa-reserve-serengeti-giraffe-spotted-zebra-striped-mammal-126464185.jpg
+image2.jpg: https://shawglobalnews.files.wordpress.com/2016/09/saunders-car.jpg?quality=85&strip=all&w=720
+
